@@ -55,3 +55,7 @@
     grid-template-columns: 1fr;
   }
 }
+.mapbtn{
+  margin-top:12px;
+  margin-right:12px;
+}
