@@ -59,3 +59,11 @@
   margin-top:12px;
   margin-right:12px;
 }
+.mapbtn{
+  margin-top:12px;
+  display:inline-flex;
+}
+
+.mapbtn + .mapbtn{
+  margin-left:12px;
+}
